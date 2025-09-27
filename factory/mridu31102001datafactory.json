@@ -1,0 +1,9 @@
+{
+	"name": "mridu31102001datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "17738647-78e8-45f6-a204-412d3a2c04ab",
+		"tenantId": "91b237b8-b2a0-469d-a9b4-4250b92879b3"
+	}
+}

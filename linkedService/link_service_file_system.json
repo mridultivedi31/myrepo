@@ -1,0 +1,17 @@
+{
+	"name": "link_service_file_system",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\MridulFiles",
+			"userId": "mridultrivedi31@gmail.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJmODZiNWIzOC1kMzQxLTRiNjktYmEwZi0xN2I3MjZmYjBmN2IiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "Mridul-SelfHosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
